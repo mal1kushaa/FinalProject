@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Hypersonic plane from the USA: when will it be possible to fly to London in 55 minutes",
+      "date": "2025-05-15",
+      "category": "Travel",
+      "content": "According to the Daily Mail, the American company Venus Aerospace was the first in the world to successfully launch a rocket with a new type of engine - it runs on rotating explosions. Yes, it sounds like a fantasy. But this is reality: on May 14, at the Spaceport America in New Mexico at 7:37 a.m. local time, a small rocket with an RDRE rotating detonation rocket engine soared into the sky.",
+      "views": 600,
+      "wordCount": 600
+    },
+    {
+      "id": 2,
+      "title": "16-year-old prodigy helped Kairat beat Aktobe",
+      "date": "2025-05-19",
+      "category": "Sport",
+      "content": "As he writes Vesti.kz The meeting in Aktobe on Friday, May 30, ended with a score of 1:2. All the goals were scored in the second half. The home team were the first to achieve success through the efforts of Ayan Baydavletov in the 50th minute. The Almaty team won back thanks to the efforts of Alexander Martynovich in the 75th minute. Moreover, they did it in the minority, since Valery Gromyko was removed from the field in the 71st minute.",
+      "views": 425,
+      "wordCount": 350
+    },
+    {
+      "id": 3,
+      "title": "A teenager in the United States hacked into more than 120 cars overnight and got away with it.",
+      "date": "2025-05-03",
+      "category": "Auto",
+      "content": "According to the investigation, the teenager is connected with more than 120 cases of thefts committed on May 4, 2025 in Laurel and nearby areas. The arrest took place in the morning at the young man's place of residence in Beltsville as part of the investigation. During the search, they found the keys to the stolen car that was used in the commission of crimes, as well as the keys to another 25 cars and a number of stolen items.",
+      "views": 345,
+      "wordCount": 87
+    },
+    {
+      "id": 4,
+      "title": "The Harvard scandal: what awaits Kazakhstani students in case of expulsion",
+      "date": "2025-05-26",
+      "category": "Education",
+      "content": "The Donald Trump administration has banned Harvard from accepting international students, thereby causing panic among Kazakhstanis studying at the university. In response, Harvard sued the U.S. government. The official complaint states that the actions of the authorities violate the law and are 'retaliation' for Harvard's refusal to submit to political control.",
+      "views": 795,
+      "wordCount": 230
+    },
+    {
+      "id": 5,
+      "title": "What will happen to Kazakhstani museums? The response of the Minister of Culture",
+      "date": "2025-05-28",
+      "category": "Art",
+      "content": "Aida Balayeva emphasizes that the museum is a treasure trove of history and memory of the people. According to the minister, the main activity of Kazakhstani museums is the preservation, popularization and development of the unique cultural heritage of our country. They are the ones who keep the most valuable paintings, sculptures, and manuscripts, which are evidence of the history of Kazakhstan from antiquity to the present day. 'Museums are not just exhibitions. It is also a complex scientific research activity, conservation and restoration work. These tasks are performed by 275 museums in Kazakhstan. This year, thanks to the support and care of the Head of State, two Kazakhstani museums received the status of National. These are the Central State Museum and the Abylkhan Kasteev State Museum of Art.'",
+      "views": 345,
+      "wordCount": 800
+    },
+    {
+      "id": 6,
+      "title": "Neuralink’s first patient controls computer with mind",
+      "date": "2025-05-13",
+      "category": "Tech",
+      "content": "In a historic breakthrough, Elon Musk’s company Neuralink announced that the first human implanted with its brain chip can now move a mouse cursor using only their thoughts. The trial, conducted in early May, showed stable connection between the implant and digital devices. The company plans to expand trials in the next few months.",
+      "views": 510,
+      "wordCount": 400
+    },
+    {
+      "id": 7,
+      "title": "Scientists discover possible cure for type 1 diabetes",
+      "date": "2025-05-21",
+      "category": "Health",
+      "content": "A group of researchers from the University of Cambridge has developed a new technique that may potentially cure type 1 diabetes. By using modified stem cells, they successfully regenerated insulin-producing cells in lab animals. Human trials are expected to begin by late 2025.",
+      "views": 670,
+      "wordCount": 510
+    },
+    {
+      "id": 8,
+      "title": "Dune: Part 3 officially confirmed by Warner Bros",
+      "date": "2025-05-29",
+      "category": "Movies",
+      "content": "After the massive success of Dune: Part 2, the studio has officially greenlit a third installment in the sci-fi franchise. Director Denis Villeneuve will return to work on the adaptation of 'Dune Messiah.' Filming is expected to begin in early 2026.",
+      "views": 820,
+      "wordCount": 370
+    },
+    {
+      "id": 9,
+      "title": "Kazakhstan to host first Central Asian Climate Summit",
+      "date": "2025-05-30",
+      "category": "Politics",
+      "content": "President of Kazakhstan Kassym-Jomart Tokayev announced that Almaty will be the host city for the first Central Asian Climate Summit. Leaders from five countries will gather to discuss regional solutions to environmental challenges and green development initiatives.",
+      "views": 440,
+      "wordCount": 210
+    },
+    {
+      "id": 10,
+      "title": "China launches lunar base construction mission",
+      "date": "2025-05-18",
+      "category": "Space",
+      "content": "The China National Space Administration (CNSA) successfully launched a new mission aimed at beginning the construction of its long-planned lunar research station. The mission includes delivering robotics systems and 3D printing modules to the Moon’s surface.",
+      "views": 560,
+      "wordCount": 420
+    }
+  ]
+}
